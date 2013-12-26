@@ -1,0 +1,17 @@
+.DS_Store
+/node_modules
+/.idea
+/public/coverage.html
+start_cms.sh
+start_debug_cms.sh
+test_cms.sh
+start_cms_heroku.sh
+test_cms_heroku.sh
+/Redis-64.2.6.12.1
+dump.rdb
+test_cms_heroku.sh
+.vagrant
+database.json
+latest.dump
+a.out
+*.iml
